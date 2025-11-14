@@ -6,6 +6,8 @@ Aplicación web de gestión académica: administración completa de Alumnos con 
 
 ## 🚀 Enlaces
 
+- **GitHub Pages**: [Ver proyecto](https://114032-baez-nicolas.github.io/1PF-Baez/alumnos)
+
 ## 🛠️ Tecnologías
 
 - Angular 20.3.2
