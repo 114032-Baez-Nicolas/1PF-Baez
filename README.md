@@ -12,7 +12,6 @@ Aplicación web de gestión académica: administración completa de Alumnos con 
 - Angular Material
 - TypeScript
 - Formularios Reactivos (ReactiveFormsModule)
-- RxJS
 
 ## ⚡ Funcionalidades
 
